@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 357e820d2ca9c4d4a8ca6ba479257f81, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  GunName: Pistol
+  Magcount: 7
+  reloadtime: 1
+  currentBulletAmount: 0
+  damage: 2
+  recoiltime: 0.3
+  tmprecoiltime: 0
+  gunRange: 20
+  bulletSpeed: 10
+  MultiShot: 0
+  Gun: {fileID: 1834886008782653711, guid: b14d2f15625899546954d4270d90f46f, type: 3}
+  GunSound: {fileID: 8300000, guid: e4484d519f26a8f4aa207a37e6c224a7, type: 3}
