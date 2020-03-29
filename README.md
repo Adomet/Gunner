@@ -1,4 +1,2 @@
-# Pikes3D
-Pikes.io game 3D clone.
-
-Challenge Game project that I made for my Internship.
+# Gunner.İO
+Gunenr.İO game that cube player shooting each other trying to get better guns and points.
